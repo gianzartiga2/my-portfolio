@@ -1,0 +1,62 @@
+*{
+    scroll-behavior: smooth;
+}
+body{
+    font-family: arial;
+}
+header {
+    text-align: center;
+    padding: 0px;
+    font-size: 29px;
+}
+.nav-bar{
+    text-align: center;
+    font-size: 18px;
+}
+.nav-bar a {
+    margin-right: 7px;
+    margin-left: 7px;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+.container1 {
+    font-size: 20px;
+    text-align: center;
+}
+.monkey {
+    justify-content: center;
+    text-align: center;
+}
+
+/*About me CSS*/
+.nav-menu{
+    margin-left: 7px;
+    margin-right: 7px;
+    font-size: 18px;
+    text-align: center;
+}
+.nav-menu a {
+    text-decoration: none;
+    margin: 15px;
+}
+.biography-sec {
+    justify-content: center;
+}
+
+/*Contact CSS*/
+.div-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div-2 {
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 10px 24px;
+}
+.submit-btn {
+    border: 2px solid black;
+    border-radius: 6px;
+    cursor: pointer;
+}
